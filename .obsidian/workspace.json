@@ -11,10 +11,10 @@
             "id": "b810276629a2ac3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -157,13 +157,23 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "2021d1af719dcabe",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,9 +183,27 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b810276629a2ac3b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "未命名 1.base",
+    "未命名.base",
+    "Termux使用.md",
+    "小积累.md",
+    "时间复杂度计算.md",
+    "人生中的一些”大事“.md",
+    "机器学习三两事.md",
+    "欢迎.md",
+    "创建链接.md",
+    "Pasted image 20260420105936.png",
+    "2026-04-18.md",
+    "Markwhen/Markwhen 3-16-2026 23.16.21.mw",
+    "Markwhen/Markwhen 3-15-2026 23.02.21.mw.mw",
+    "Markwhen/2026-03-15.md",
+    "Markwhen",
+    "数学方法.md"
+  ]
 }
