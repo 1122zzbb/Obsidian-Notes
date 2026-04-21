@@ -50,3 +50,15 @@ cd /data/data/com.termux/files/home/.local/opt/filebrowser
 
  2. mux new -s filebrowser
 ./filebrowser
+
+用户账号：admin
+密码：admin123456789
+
+## SSH登录密码
+u0_a308
+密码：000000
+# 连接手机：
+
+## ssh -p 8022 u0_a308@100.102.52.69
+
+

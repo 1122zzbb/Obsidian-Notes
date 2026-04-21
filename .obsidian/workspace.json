@@ -11,17 +11,28 @@
             "id": "b810276629a2ac3b",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "fc6c1ccd62ec0d26",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "人生中的一些”大事“.md",
+                "file": "ES写歌的方式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "人生中的一些”大事“"
+              "title": "ES写歌的方式"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,18 +202,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b810276629a2ac3b",
+  "active": "fc6c1ccd62ec0d26",
   "lastOpenFiles": [
-    "机器学习三两事.md",
     "Pasted image 20260420105936.png",
+    "ES写歌的方式.md",
+    "Termux使用.md",
+    "Pasted image 20260421192029.png",
     "人生中的一些”大事“.md",
+    "机器学习三两事.md",
     "小积累.md",
     "Markwhen/2026-03-15.md",
     "2026-04-18.md",
     "创建链接.md",
     "未命名.base",
     "未命名 1.base",
-    "Termux使用.md",
     "时间复杂度计算.md",
     "欢迎.md",
     "Markwhen/Markwhen 3-16-2026 23.16.21.mw",
